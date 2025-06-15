@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Isuru</h1>
 <h3 align="center">| SLIATE IT Student | </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=53ff13&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -38,8 +38,8 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center" padding="30px">
-<a href="www.youtube.com/@isurupradeep8204" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="isuruYT" height="50" width="50" /></a>   
+<p align="center"  >
+<a href="www.youtube.com/@isurupradeep8204" target="blank"><img align="center"  src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="isuruYT" height="50" width="50" /></a>   
 <a href="https://www.linkedin.com/in/isuru-pradeep-71b933348" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="isuruLinkedIn" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100088934404086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tha Ri Ndu" height="50" width="50" /></a>
 </p>
