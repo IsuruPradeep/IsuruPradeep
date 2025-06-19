@@ -11,9 +11,9 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
 
--  🎯 Goal **To contribute to impactful software projects while continuously learning and improving**
-
 -  🛠 Tech Stack Focus: **React**, **Express**, **MongoDB**, **Node.js**
+
+-  🎯 Goal **To contribute to impactful software projects while continuously learning and improving**
 
 - 📫 How to reach me **pisuru136@gmail.com**
 
