@@ -33,13 +33,13 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-  
   </td>
 </tr>
 </table>
 
 ---
-
+![IsuruPradeep's Stats](https://github-readme-stats.vercel.app/api?username=IsuruPradeep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![IsuruPradeep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruPradeep&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   
   
