@@ -39,8 +39,8 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 ---
 
-![IsuruPradeep's Stats](https://github-readme-stats.vercel.app/api?username=IsuruPradeep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![IsuruPradeep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuruPradeep&theme=dark&hide_border=false) <br>
+![IsuruPradeep's Stats](https://github-readme-stats.vercel.app/api?username=IsuruPradeep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![IsuruPradeep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuruPradeep&theme=dark&hide_border=false) <br>
+
 ![IsuruPradeep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruPradeep&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   
