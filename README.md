@@ -12,6 +12,9 @@
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
 
 - 📫 How to reach me **pisuru136@gmail.com**
+
+-  🎯 Goal: To contribute to impactful software projects while continuously learning and improving
+  
   
 
 
