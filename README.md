@@ -1,7 +1,14 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Isuru</h1>
+<h1 align="center">Hi 👋, I'm Isuru Pradeep</h1>
 <h3 align="center">| SLIATE IT Student | </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=48a327&style=flat" alt="scar1109" /> </p>
+
+
+### 👨🏻‍🎓 About Me
+
+I’m a highly motivated and detail-oriented Full Stack Developer with a strong foundation in both frontend and backend development. I enjoy building robust, responsive, and user-friendly web applications that solve real-world problems.
+
+---
 
 <table align="center">
 <tr border="none">
