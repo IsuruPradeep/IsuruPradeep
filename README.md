@@ -80,7 +80,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 #### 👨‍🎨 Frontend
 ![React](https://skillicons.dev/icons?i=react) 
-![JavaScript](https://skillicons.dev/icons?i=js) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
@@ -88,27 +88,26 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 #### 🧩 Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![PHP](https://skillicons.dev/icons?i=php) 
-![Laravel](https://skillicons.dev/icons?i=laravel)
+![PHP](https://skillicons.dev/icons?i=php)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 #### 🗃️ Database
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="phpMyAdmin"/>
 
 #### 📱 Mobile Development
-![Flutter](https://skillicons.dev/icons?i=flutter) 
-![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
+![React Native](https://skillicons.dev/icons?i=react) 
 ![Java](https://skillicons.dev/icons?i=java)
+
+#### 🧪 Testing & API Tools
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" title="Postman"/>
 
 #### ⚙️ Tools & Others
 ![Git](https://skillicons.dev/icons?i=git) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![WordPress](https://skillicons.dev/icons?i=wordpress) 
 ![Python](https://skillicons.dev/icons?i=python) 
-![TypeScript](https://skillicons.dev/icons?i=typescript) 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="GoLang"/>
-
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ---
 
