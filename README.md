@@ -27,7 +27,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Laravel**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
 
