@@ -31,7 +31,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
 
--  🛠 Tech Stack Focus: **React**, **Express**, **MongoDB**, **Node.js**
+-  🛠 Tech Stack Focus: **Laravel**, **React**, **Express**, **MongoDB**, **Node.js** 
 
 -  🎯 Goal **To contribute to impactful software projects while continuously learning and improving**
 
@@ -43,9 +43,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
   </td>
 </tr>
 </table>
