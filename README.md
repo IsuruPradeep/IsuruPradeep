@@ -49,11 +49,11 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsuruPradeep&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/index.php?username=IsuruPradeep&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IsuruPradeep&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsuruPradeep&layout=compact&theme=tokyonight)
+![Top Languages](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs.php?username=IsuruPradeep&layout=compact&theme=tokyonight)
 
 ---
 
