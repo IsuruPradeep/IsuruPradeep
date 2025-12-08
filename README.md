@@ -31,7 +31,7 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
 
--  🛠 Tech Stack Focus: **Laravel**, **React**, **Express**, **MongoDB**, **Node.js** 
+-  🛠 Tech Stack Focus: **Flutter**,**Java**,**Laravel**, **React**, **Express**, **MongoDB**, **Node.js** 
 
 -  🎯 Goal **To contribute to impactful software projects while continuously learning and improving**
 
