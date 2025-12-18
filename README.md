@@ -48,12 +48,20 @@ I’m a highly motivated and detail-oriented Full Stack Developer with a strong 
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsuruPradeep&theme=tokyonight)
+  
+</div>
 
-![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/index.php?username=IsuruPradeep&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsuruPradeep&theme=tokyonight" alt="Repos per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsuruPradeep&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsuruPradeep&theme=tokyonight" alt="Productive Time" width="32%"/>
+  
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IsuruPradeep&theme=tokyonight)
-
-![Top Languages](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs.php?username=IsuruPradeep&layout=compact&theme=tokyonight)
 
 ---
 
