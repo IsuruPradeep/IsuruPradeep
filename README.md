@@ -1,7 +1,11 @@
 <p align="center" ><img  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-<h1 align="center">Hi 👋, I'm Isuru Pradeep</h1>
-<h3 align="center">| SLIATE IT Student |</h3>
-<h3 align="center">| Full Stack Developer |</h3>
+<div align="center">
+  <h1>Hi 👋, I'm <font color="#a371f7">Isuru Pradeep</font></h1>
+  <p>
+    <img src="https://img.shields.io/badge/SLIATE%20IT%20Student-1b3a6e?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-4e2a84?style=for-the-badge&logoColor=white" />
+  </p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IsuruPradeep&label=Profile%20views&color=48a327&style=flat" alt="profile views"/>
